@@ -12,3 +12,19 @@ Steps to run Phase2 Code:
     cd Code/
     python Train.py --ModelType 
 
+#Results
+![Result 1](Results/Set1/1pano.png)
+
+![Result 2](Results/Set2/2pano.png)
+
+![Result 3](Results/Set3/3pano.png)
+
+![Result TestSet1](Results/TestSet1/4blur_pano.png)
+
+![Result TestSet2](Results/TestSet2/5pano.png)
+
+![Result TestSet2](Results/TestSet2/6pano.png)
+
+![Result TestSet3](Results/TestSet3/6blur_pano.png)
+
+![Result TestSet4](Results/TestSet4/7pano.png)
