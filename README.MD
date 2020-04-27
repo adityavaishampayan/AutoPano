@@ -94,6 +94,15 @@ An input and output of a seamless panorama of three images are shown below.
 
 ![First three images: Input to the panorama stitching algorithm, last image: output of the panorama stitching algorithm.](Images/InputOutput.png)
 
+# Deep Learning
+![DL Overview](Images/DLOverview.png)
+
+## Supervised Approach
+![DL Overview](Images/HomographyNetSup.png)
+
+## Unsupervised Approach
+![DL Overview](Images/HomographyNetUnsup.png)
+
 
 # Results
 ![Result 1](Results/Set1/1pano.png)
